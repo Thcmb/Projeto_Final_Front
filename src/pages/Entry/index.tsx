@@ -26,8 +26,8 @@ const Entry = () => (
             target="_blank"
             rel="noreferrer"
           >
-            @Thcmb
-          </a>
+              @Thcmb
+            </a>
         </p>
       </Footer>
     </div>
