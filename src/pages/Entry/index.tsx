@@ -17,19 +17,6 @@ const Entry = () => (
           <AccountAction />
         </SectionLoguin>
       </SplitLayout>
-
-      <Footer>
-        <p>
-          Todos direitos reservados{' '}
-          <a
-            href="https://github.com/Thcmb"
-            target="_blank"
-            rel="noreferrer"
-          >
-            @Thcmb
-          </a>
-        </p>
-      </Footer>
     </div>
   </>
 )
