@@ -1,5 +1,4 @@
 import AccountAction from '../../components/AccountAction'
-
 import { SplitLayout, Footer, Logo, SectionLoguin } from './styles'
 import logo from '../../assets/icon.svg'
 
@@ -21,13 +20,7 @@ const Entry = () => (
       <Footer>
         <p>
           Todos direitos reservados{' '}
-          <a
-            href="https://github.com/Thcmb"
-            target="_blank"
-            rel="noreferrer"
-          >
-              @Thcmb
-            </a>
+          <a href="https://github.com/Thcmb" target="_blank" rel="noreferrer">@Thcmb</a>
         </p>
       </Footer>
     </div>
